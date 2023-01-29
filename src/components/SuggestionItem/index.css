@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.suggestion-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.arrow {
+  width: 25px;
+  cursor: pointer;
+  height: 25px;
+}

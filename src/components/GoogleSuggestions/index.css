@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 400px;
+  height: 130px;
+  margin-right: 20px;
+}
+.search-icon {
+  width: 25px;
+  height: 25px;
+}
+.input {
+  width: 500px;
+  border-width: 0px;
+  height: 30px;
+  outline: none;
+  margin-left: 10px;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 1px 1px #bfbfbf;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.card-container {
+  box-sizing: 1px 1px #bfbfbf;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 1px 1px #bfbfbf;
+  padding: 10px;
+  border-radius: 10px;
+}
